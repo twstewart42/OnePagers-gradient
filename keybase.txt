@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/twstewart42
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://twstewart.me
+  * I am twstewart42 (https://keybase.io/twstewart42) on keybase.
+  * I have a public key ASDDOeZlWbzt_Dbsg21BoBjQlem-FSnGDsTN_oS6ieFWUAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ed08cd55b9fc826f78b902676158a6a142e4c476cb8b98c12c0d15d13f7115260a",
+      "host": "keybase.io",
+      "kid": "0120c339e66559bcedfc36ec836d41a018d095e9be1529c60ec4cdfe84ba89e156500a",
+      "uid": "a513dad6f2352c0148f4b940fd875919",
+      "username": "twstewart42"
+    },
+    "merkle_root": {
+      "ctime": 1636236715,
+      "hash": "7496b4a8db502d3239bdff6daa0674e1ef210c09a693dabe3562f53eb4252b7964bf120192a61f8dbd4985dd665d1486a90948abe992617d1a2dc5021a461c1e",
+      "hash_meta": "647031c7549716475cd8553864d8e781464d6fb95632b81b498394d5dc12384a",
+      "seqno": 21158982
+    },
+    "service": {
+      "entropy": "Rbb4KI49g5lg9p7J9P3e+sR+",
+      "hostname": "twstewart.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.0"
+  },
+  "ctime": 1636236808,
+  "expire_in": 504576000,
+  "prev": "c1a3e359e4c7b425a661bbd85755351ed2d065695d4e4f5da44a10fcf26665e9",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwznmZVm87fw27INtQaAY0JXpvhUpxg7Ezf6EuonhVlAKp3BheWxvYWTESpcCIcQgwaPjWeTHtCWmYbvYV1U1HtLQZWldTk9dpEoQ/PJmZenEIKdmhAFYfwM08irkbxfnnx5fTjkX49r6U4b5R8E5kDwSAgHCo3NpZ8RAbl4MHs8KPcNjoYmh6+8AuY93U8Bs9fem93dreFWoSTWltgoIJxuuNTS54rYb0vb0qPjVJXos9SUtjYE10nbkDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHQ1+MTkWbl0cJ3IiaVCpAE8sow8iCNwlp0ytpUTmEjno3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/twstewart42
+
+==================================================================
